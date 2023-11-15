@@ -7,3 +7,5 @@ https://developers.reddit.com/apps/link-cleaner
 ## How to Use
 
 Just click the menu icon on a post or comment and select "Get Clean Link" to reveal the sanitized permalink.
+
+[MIT &copy; shiruken](/LICENSE)
