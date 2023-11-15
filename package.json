@@ -2,12 +2,8 @@
   "private": true,
   "name": "link-cleaner",
   "version": "0.0.0",
-  "license": "BSD-3-Clause",
+  "license": "MIT",
   "type": "module",
-  "scripts": {
-    "test": "npm run test:unit",
-    "test:unit": "vitest --run"
-  },
   "dependencies": {
     "@devvit/public-api": "0.10.9"
   },
