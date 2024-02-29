@@ -17,3 +17,8 @@ Just click the menu icon on a post or comment and select "Get Clean Link" to rev
 ### Mobile
 
 ![Using Link Cleaner on Mobile for Submission](https://github.com/shiruken/link-cleaner/assets/867617/b85d9144-7738-4e9b-bec2-3a12086533bb)
+
+## Links
+
+* [Source Code](https://github.com/shiruken/link-cleaner)
+* [Changelog](https://github.com/shiruken/link-cleaner/releases)
