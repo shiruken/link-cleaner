@@ -35,14 +35,16 @@ Devvit.addMenuItem({
 
 const form = Devvit.createForm((data) => {
   return {
+    title: 'Clean Link',
     fields: [{ 
-      name: 'url',
-      label: 'Clean URL',
       type: 'string',
+      name: 'url',
+      label: '',
       defaultValue: data.url,
       helpText: 'Permalink without Reddit tracking tags',
-      disabled: false
+      disabled: false,
     }],
+    acceptLabel: 'Close',
   }
 }, () => {
   // pass

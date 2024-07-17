@@ -1,14 +1,14 @@
 {
   "private": true,
   "name": "link-cleaner",
-  "version": "0.0.0",
+  "version": "0.2.0",
   "license": "MIT",
   "type": "module",
   "dependencies": {
-    "@devvit/public-api": "0.10.13"
+    "@devvit/public-api": "0.10.22"
   },
   "devDependencies": {
-    "@devvit/tsconfig": "0.10.13",
+    "@devvit/tsconfig": "0.10.22",
     "typescript": "4.9.3",
     "vitest": "0.31.1"
   }
